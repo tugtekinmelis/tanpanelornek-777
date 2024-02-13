@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tab panel ornek-777", "tab panel ornek-777\tab panel ornek-777.csproj", "{146115C7-DDEB-4B64-A7F9-FB415F779B7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{146115C7-DDEB-4B64-A7F9-FB415F779B7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{146115C7-DDEB-4B64-A7F9-FB415F779B7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{146115C7-DDEB-4B64-A7F9-FB415F779B7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{146115C7-DDEB-4B64-A7F9-FB415F779B7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C865509B-2736-4210-8EF7-CB8D0908A5CD}
+	EndGlobalSection
+EndGlobal
